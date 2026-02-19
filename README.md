@@ -27,7 +27,7 @@ El sistema también debe registrar las consultas realizadas por los visitantes i
 ![Diagrama-ER](/Documentos/eR.png)
 
 ### Diagrama Relacional
-![Diagrama-Relacional]()
+![Diagrama-Relacional](/Documentos/logico.png)
 
 
 ## Link del Repositorio
